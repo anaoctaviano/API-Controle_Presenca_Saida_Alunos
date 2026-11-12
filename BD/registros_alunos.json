@@ -1,0 +1,79 @@
+[
+  {
+    "id": 1,
+    "matricula": "2026A01",
+    "nome": "CARLOS EDUARDO SILVA",
+    "turma": "3A",
+    "data": "2026-10-23",
+    "presente": true,
+    "motivoSaida": "BANHEIRO",
+    "minutosFora": 8,
+    "alertaTempo": false
+  },
+  {
+    "id": 2,
+    "matricula": "2026A02",
+    "nome": "ANA CLARA SOUZA",
+    "turma": "3A",
+    "data": "2026-10-23",
+    "presente": true,
+    "motivoSaida": "COORDENAÇÃO",
+    "minutosFora": 10,
+    "alertaTempo": false
+  },
+  {
+    "id": 3,
+    "matricula": "2026A03",
+    "nome": "LUCAS ALMEIDA",
+    "turma": "2A",
+    "data": "2026-10-23",
+    "presente": true,
+    "motivoSaida": "BANHEIRO",
+    "minutosFora": 8,
+    "alertaTempo": false
+  },
+  {
+    "id": 4,
+    "matricula": "2026A04",
+    "nome": "LAURA COSTA",
+    "turma": "2B",
+    "data": "2026-10-23",
+    "presente": true,
+    "motivoSaida": "BANHEIRO",
+    "minutosFora": 17,
+    "alertaTempo": true
+  },
+  {
+    "id": 6,
+    "matricula": "2026A06",
+    "nome": "ANA CLARA COSTA",
+    "turma": "2B",
+    "data": "2026-10-23",
+    "presente": true,
+    "motivoSaida": "COORDENAÇÃO",
+    "minutosFora": 10,
+    "alertaTempo": false
+  },
+  {
+    "id": 6,
+    "matricula": "2026A0",
+    "nome": "ANA VITÓRIA COSTA",
+    "turma": "2B",
+    "data": "2026-10-23",
+    "presente": true,
+    "motivoSaida": "COORDENAÇÃO",
+    "minutosFora": 10,
+    "alertaTempo": false
+  },
+  {
+    "id": 7,
+    "matricula": "2026A07",
+    "nome": "MARCOS AUGUSTO",
+    "turma": "2B",
+    "data": "2026-10-23",
+    "presente": true,
+    "motivoSaida": "BANHEIRO",
+    "minutosFora": 12,
+    "alertaTempo": false
+  }
+]
